@@ -1,0 +1,16 @@
+{
+  "CN": "micro-secure",
+  "key": {
+    "algo": "rsa",
+    "size": 2048
+  },
+  "names": [
+    {
+      "C": "AU",
+      "L": "London",
+      "O": "micro-secure",
+      "OU": "VIC",
+      "ST": "SE114RN"
+    }
+  ]
+}
